@@ -1,5 +1,5 @@
 #include<stdio.h>
-//×Ö·ûÖ¸Õë
+//å­—ç¬¦æŒ‡é’ˆ
 int main()
 {
 	char arr[] = "abcdef";
@@ -10,7 +10,7 @@ int main()
 }
 int main()
 {
-	const char* p = "abcdef";//const char±íÊ¾³£Á¿×Ö·û´® ²»ÄÜ±»ĞŞ¸Ä
+	const char* p = "abcdef";//const charè¡¨ç¤ºå¸¸é‡å­—ç¬¦ä¸² ä¸èƒ½è¢«ä¿®æ”¹
 	printf("%s", p);
 	return 0;
 }
