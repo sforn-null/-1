@@ -17,7 +17,7 @@ int main()
 {
 	int a = 10;
 	int* pa = &a;
-	int** ppa = &pa;//ppa就是二级指针
+	int** ppa = &pa;//ppa戮脥脢脟露镁录露脰赂脮毛
 	
     return 0;
 }
