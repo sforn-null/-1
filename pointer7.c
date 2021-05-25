@@ -1,5 +1,5 @@
 #include<stdio.h>
-//一道面试题
+//脪禄碌脌脙忙脢脭脤芒
 int main()
 {
 	char arr1[] = "abcdef";
