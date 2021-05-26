@@ -1,7 +1,7 @@
 #include<stdio.h>
 
-//»Øµ÷º¯Êý
-//ÏÂÃæµÄ²»Ì«ÌùÇÐ³£ÓÃµÄÐÎÊ½
+//å›žè°ƒå‡½æ•°
+//ä¸‹é¢çš„ä¸å¤ªè´´åˆ‡å¸¸ç”¨çš„å½¢å¼
 void print(const char* str)
 {
 	printf("hehe:%s\n", str);
@@ -19,11 +19,11 @@ int main()
 
 int main()
 {
-	//Ã°ÅÝÅÅÐòº¯Êý
-	//Ã°ÅÝÅÅÐòº¯ÊýÖ»ÄÜÅÅÐòÕûÐÍÊý×é
-	//qsort-¿ÉÒÔÅÅÐòÈÎÒâÀàÐÍµÄÊý¾Ý-¿âº¯Êý
+	//å†’æ³¡æŽ’åºå‡½æ•°
+	//å†’æ³¡æŽ’åºå‡½æ•°åªèƒ½æŽ’åºæ•´åž‹æ•°ç»„
+	//qsort-å¯ä»¥æŽ’åºä»»æ„ç±»åž‹çš„æ•°æ®-åº“å‡½æ•°
 	return 0;
 }
 
-qsort-¿âº¯Êý-ÅÅÐò
+qsort-åº“å‡½æ•°-æŽ’åº
 quick sort-
